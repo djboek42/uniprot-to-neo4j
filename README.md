@@ -1,10 +1,11 @@
 # How to run
 
-1. [Neo4j Desktop](https://neo4j.com/download/) is used to run this code. Install it and create a new project. Create a local DBMS within the project, set your password to Very-Strong-Password (or change the password set in the .py file) and install the APOC plugin.
+1. [Neo4j Desktop](https://neo4j.com/download/) is used to run this code. Install it and create a new project. Create a local DBMS within the project, set your password to Very-Strong-Password (or change the password set in the graphmaker.py file) and install the APOC plugin.
 2. Start the DBMS
 3. Run graphmaker.py
 4. Open the DBMS in Neo4j and view the result. You can choose which nodes to show.
 
+# Graphs
 The full graph:
 ![graph](https://github.com/djboek42/uniprot-to-neo4j/assets/78880986/f89fda70-bcf2-4f52-b565-23d1a67ae763)
 
